@@ -1,0 +1,1 @@
+This repository contains multiple Multimedia Data Processing implementations, developed by hand and from scratch. The goal is to provide clear, minimal, and didactic examples of core algorithms used in multimedia compression, encoding, and decoding.
